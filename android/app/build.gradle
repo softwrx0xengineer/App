@@ -1,9 +1,4 @@
-apply plugin: "com.android.application"
-apply plugin: "org.jetbrains.kotlin.android"
-apply plugin: "com.facebook.react"
-apply plugin: "com.google.firebase.firebase-perf"
-apply plugin: "fullstory"
-apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
+I don't know how to code...
 
 /**
  * This is the configuration block to customize your React Native Android app.
